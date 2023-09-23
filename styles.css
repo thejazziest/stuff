@@ -1,7 +1,8 @@
 body {
-    background-color: olive;
+    background-image: linear-gradient(blue, red);
 }
 
 h1 {
     background-color: aquamarine;
 }
+
